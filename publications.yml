@@ -1,0 +1,56 @@
+publications:
+  - title: 基于多元概率分布模型的珠海黏土多参数预测
+    authors: <strong>汪海林</strong>, 刘航宇, 顾晓强, and 宋许根
+    link: https://doi.org/10.11779/CJGE2021S2046
+    image: /images/wang2021.png
+    journal: 岩土工程学报
+    journal_short: CJGE
+    year: 2021
+    volume: 43
+    issue: S2
+    pages: "193-196"
+    scholar: https://scholar.google.com/scholar?hl=en&as_sdt=0,44&cluster=10560481507459093307
+    researchgate: https://www.researchgate.net/publication/384292107
+    scopus: https://www.scopus.com/record/display.uri?eid=2-s2.0-85120847659&origin=resultslist
+  - title: Uncertainty Quantification of Soil–Structure Interface Properties with an Enhanced Hypoplastic Interface Model
+    authors: <strong>Hai-Lin Wang</strong>, Yin-Fu Jin, Zhen-Yu Yin, and Xiao-Qiang Gu
+    link: https://doi.org/10.1061/IJGNAI.GMENG-9248
+    image: /images/wang2024a.png
+    journal: International Journal of Geomechanics
+    journal_short: IJG
+    year: 2024
+    volume: 24
+    issue: 6
+    pages: "04024103"
+    scholar: https://scholar.google.com/scholar?oi=bibs&hl=en&cluster=10447011867309979357
+    researchgate: https://www.researchgate.net/publication/380101144
+    scopus: https://www.scopus.com/record/display.uri?eid=2-s2.0-85189564432&origin=resultslist
+    webofscience: https://www.webofscience.com/wos/woscc/full-record/WOS:001202620500015
+  - title: Evaluation of Soil–Structure Interface Models
+    authors: <strong>Hai-Lin Wang</strong>, Zhen-Yu Yin, Yin-Fu Jin, and Xiao-Qiang Gu
+    link: https://doi.org/10.1061/JGGEFK.GTENG-11486
+    image: /images/wang2024b.png
+    journal: Journal of Geotechnical and Geoenvironmental Engineering
+    journal_short: JGGE
+    year: 2024
+    volume: 150
+    issue: 7
+    pages: "04024050"
+    scholar: https://scholar.google.com/scholar?oi=bibs&hl=en&cluster=2365727271821321461
+    researchgate: https://www.researchgate.net/publication/380101228
+    scopus: https://www.scopus.com/record/display.uri?eid=2-s2.0-85191899059&origin=resultslist
+    webofscience: https://www.webofscience.com/wos/woscc/full-record/WOS:001239979000003
+  - title: Evaluation of Soil–Structure Interface Models Considering Cyclic Loading Effect
+    authors: <strong>Hai-Lin Wang</strong>, Zhen-Yu Yin, Xiao-Qiang Gu, and Yin-Fu Jin
+    link: https://doi.org/10.1002/nag.3831
+    image: /images/wang2024c.png
+    journal: International Journal for Numerical and Analytical Methods in Geomechanics
+    journal_short: NAG
+    year: 2024
+    volume: 48
+    issue: 17
+    pages: "4257-4273"
+    scholar: https://scholar.google.com/scholar?oi=bibs&hl=en&cluster=13980043120597547237
+    researchgate: https://www.researchgate.net/publication/384285676
+    scopus: https://www.scopus.com/record/display.uri?eid=2-s2.0-85204709081&origin=resultslist
+    webofscience: https://www.webofscience.com/wos/woscc/full-record/WOS:001320018200001
